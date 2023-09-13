@@ -2,9 +2,17 @@
 
 This is the submission for Metacrafters Solidity Beginner Module. 
 
+## Description
+
+With the help of this contract, the user is able to keep track of overall supply as well as a balance map that shows the worth of each address or account owner. If the user has enough tokens, he or she can either mint more tokens to increase the overall supply or burn tokens to reduce the supply's value. An if statement is used to verify this. 
+
 ## Getting Started
 
 ### Executing program
+
+Use the online Solidity IDE Remix to run this program. Visit the Remix website at https://remix.ethereum.org to get started.
+
+When you are on the Remix website, click the "+" icon in the left sidebar to start a new file. Put a.sol extension to the file, such as HelloWorld.sol. The code below should be copied and pasted into the file:
 
 ```javascript
 // SPDX-License-Identifier: MIT
